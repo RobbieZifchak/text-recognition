@@ -127,3 +127,24 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+#working directory ignore files
+
+images_targets.csv
+test.txt
+train.txt
+validate1.txt
+value_counts.csv
+SamplePreprocessor.py
+train_top10.png
+validate2             
+__pycache__ 
+test
+train
+validate1
+validate2.csv
+HTR_tester.ipynb
+test.csv
+train.csv
+validate1.csv
+validate2.txt
