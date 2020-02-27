@@ -129,20 +129,19 @@ dmypy.json
 .pyre/
 
 #untracked files
-	2_words/
-
-	SamplePreprocessor.py
-	test.csv
-	test.txt
-	test/
-	train.csv
-	train.txt
-	train/
-	train_top10.png
-	validate1.csv
-	validate1.txt
-	validate1/
-	validate2.csv
-	validate2.txt
-	validate2/
-	value_counts.csv
+2_words/
+SamplePreprocessor.py
+test.csv
+test.txt
+test/
+train.csv
+train.txt
+train/
+train_top10.png
+validate1.csv
+validate1.txt
+validate1/
+validate2.csv
+validate2.txt
+validate2/
+value_counts.csv
