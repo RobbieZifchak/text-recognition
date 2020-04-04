@@ -44,7 +44,7 @@
 
 #### High-level model overview 
 
-<img src= 'images/slides/CNN-slide.png' width = '600'>
+<img src= 'images/slides/CNN-slide.png' width = '670'>
 
 
 
