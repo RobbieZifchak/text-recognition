@@ -1,4 +1,4 @@
-## Handwritten Text Recognition
+<img src = 'images/slides/title.png'>
 
 #### A multi-class classification problem for images of handwriting.
 
@@ -42,9 +42,24 @@
 * Images are then converted to grayscale, and reshaped to (64, 64, 1)
   (1 representing color channel (grayscale = 1, RGB = 3))
 
-#### High-level model overview 
+### High-level Model Overview 
 
 <img src= 'images/slides/CNN-slide.png' width = '670'>
 
 
+### Model Results
+
+<img src= 'images/slides/model-results.png' width = 670>
+
+### Conclusions and Proposed additional Steps
+
+* Recognizing handwritten text image is no simple task.
+
+* Although I do not feel optimal accuracy has been achieved, 78% is still progress considering the natural, subtle variations in handwriting.
+
+
+* Future Work:
+     * Implement Transfer learning with pre-trained models.
+     * Integrate multi-label/multi-class approach for classification at character level.
+     * Develop thresholding coordinates and bounding boxes.
 
